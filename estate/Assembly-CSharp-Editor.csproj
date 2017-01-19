@@ -94,14 +94,11 @@
  <Reference Include="UnityEditor.TreeEditor">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
  </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
- </Reference>
  <Reference Include="LCVRKitFree">
- <HintPath>/Users/gustavryrlen/Documents/LTH/estate/Assets/LCVRKit/Core/LCVRKitFree.dll</HintPath>
+ <HintPath>/Users/gustavryrlen/Documents/LTH/Lund-i-VR/estate/Assets/LCVRKit/Core/LCVRKitFree.dll</HintPath>
  </Reference>
  <Reference Include="Google.ProtocolBuffers">
- <HintPath>/Users/gustavryrlen/Documents/LTH/estate/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
+ <HintPath>/Users/gustavryrlen/Documents/LTH/Lund-i-VR/estate/Assets/Plugins/Google.ProtocolBuffers.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEditor.Graphs.dll</HintPath>
